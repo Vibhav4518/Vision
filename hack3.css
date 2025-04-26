@@ -1,0 +1,77 @@
+body{
+    background-color: aquamarine;
+}
+
+#container{
+    height: 500px;
+    background-color: rgb(100, 245, 100);
+    width: 600px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 400px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 1px;
+    padding-bottom: 100px;
+    align-items: center;
+    justify-content:center ;
+    text-align: center;
+
+}
+#welcome{
+    color: azure;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+#to{
+    color: azure;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+#text{
+    height: 400px;
+}
+p{
+    color: azure;
+}
+button{
+    border-radius: 30px;
+    border: none;
+    height: 30px;
+    width: 130px;
+    background-color: rgb(9, 9, 60);
+    color: azure; 
+}
+img{
+    justify-content: center;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: azure;
+}
+.btn{
+    justify-content: left;
+    margin-top:10px;
+    display: inline-block;
+    background: #ff523b;
+    color: #fff;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 30px;
+    text-decoration: none;
+
+    transition: background 0.5s;
+  }
+  .btn:hover{
+    background: #563434;
+  }
+  

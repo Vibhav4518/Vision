@@ -1,0 +1,43 @@
+
+img{
+    float: inline-end;
+    margin-top: -220px;
+    margin-right: 20px;
+}
+button{
+    float: inline-end;
+    margin-bottom: 20px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: aqua;
+}
+button:hover{
+    background-color: rgb(11, 97, 195);
+    color: azure;
+}
+a{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+a:hover{
+    color: azure;
+}
+.btn{
+    justify-content: left;
+    margin-top:10px;
+    display: inline-block;
+    background: #ff523b;
+    color: #fff;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 30px;
+    transition: background 0.5s;
+    text-decoration: none;
+
+  }
+  .btn:hover{
+    background: #563434;
+  }
+  
